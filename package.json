@@ -5,7 +5,7 @@
     "ios": "react-native run-ios",
     "web": "expo start --web",
     "start": "react-native start",
-    "generate": "plop --plopfile=generators/plopfile.js "
+    "generate": "plop --plopfile=generators/plopfile.js"
   },
   "dependencies": {
     "@expo-google-fonts/poppins": "^0.2.0",
