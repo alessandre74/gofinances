@@ -90,7 +90,7 @@ export function Register() {
       setTransactionType('')
       setCategory({ key: 'category', name: 'Categoria' })
 
-      navigation.navigate('Cadastrar')
+      navigation.navigate('Listagem')
     } catch (error) {
       console.log('error')
       Alert.alert('Não foi possível salvar')
