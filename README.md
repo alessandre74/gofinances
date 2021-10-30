@@ -20,7 +20,7 @@
 
 ## 💻 Projeto
 
-Gofinances é um aplicativo de finanças pessoais desenvolvido no curso Ignite da Rocketseat, !
+Gofinances é um aplicativo de finanças pessoais desenvolvido no curso Ignite da Rocketseat.
 
 ## 🚀 Tecnologias utilizadas
 
@@ -36,16 +36,16 @@ Clone o repositório
 git clone git@github.com:alessandre74/gofinances.git
 ```
 
-Instale as dependências
-
-```
-yarn ou sudo yarn
-```
-
 Acesse o diretório do projeto
 
 ```
 cd gofinances
+```
+
+Instale as dependências
+
+```
+yarn ou sudo yarn
 ```
 
 Inicie o expo
