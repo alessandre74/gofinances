@@ -56,4 +56,4 @@ expo start ou sudo expo start
 
 ## 📄 License
 
-Este projeto está sob a licença MIT. Consulte a licença [LICENSE](LICENSE.md) para mais informações.
+Este projeto está sob a licença MIT.
