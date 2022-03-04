@@ -5,9 +5,9 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs'
 import { MaterialIcons } from '@expo/vector-icons'
 import { useTheme } from 'styled-components'
 
-import { Dashboard } from '../screen/Dashboard'
-import { Register } from '../screen/Register'
-import { Resume } from '../screen/Resume'
+import { Dashboard } from '../screens/Dashboard'
+import { Register } from '../screens/Register'
+import { Resume } from '../screens/Resume'
 
 declare global {
   namespace ReactNavigation {
