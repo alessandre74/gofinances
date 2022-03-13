@@ -1,7 +1,8 @@
-import { renderHook, act } from '@testing-library/react-hooks'
-import { AuthProvider, useAuth } from './auth'
-import { startAsync } from 'expo-auth-session'
 import fetchMock from 'jest-fetch-mock'
+import { startAsync } from 'expo-auth-session'
+import { renderHook, act } from '@testing-library/react-hooks'
+
+import { AuthProvider, useAuth } from './auth'
 
 fetchMock.enableMocks()
 
