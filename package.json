@@ -6,7 +6,8 @@
     "web": "expo start --web",
     "start": "react-native start",
     "generate": "plop --plopfile=generators/plopfile.js",
-    "test": "jest"
+    "t": "jest",
+    "tw": "yarn test --watchAll"
   },
   "dependencies": {
     "@expo-google-fonts/poppins": "^0.2.0",
